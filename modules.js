@@ -1,0 +1,11 @@
+const {log}=require('console');
+// const fs=require('fs');
+// fs.writeFileSync('dummy.txt',"we are trying the modules");
+// const os=require('os');
+// console.log(os.hostname());
+// console.log(os.platform());
+// console.log(os.cpus());
+// console.log("abc");
+// console.log(process.cwd());
+// console.log(process.pid);
+log("Tejuuuuuuuuuu");
